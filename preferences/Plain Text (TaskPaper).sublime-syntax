@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: Plain Text (TaskPaper)
+hidden: true
+file_extensions:
+  - taskpaper
+scope: text.plain.taskpaper
+contexts:
+  main:
+    - include: scope:text.plain

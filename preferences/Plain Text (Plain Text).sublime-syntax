@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: Plain Text (Plain Text)
+hidden: true
+file_extensions:
+  - LICENSE
+scope: text.plain.license
+contexts:
+  main:
+    - include: scope:text.plain

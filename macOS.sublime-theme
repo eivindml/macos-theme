@@ -1083,6 +1083,6 @@
         "class": "icon_folder",
         "content_margin": [8, 8],
         "layer0.texture": "Theme - macOS/icons/tree_view_folder.png",
-        "layer0.opacity": 0.71
+        "layer0.opacity": 1.0
     }
 ]
